@@ -71,7 +71,7 @@ The model's performance is evaluated using:
 
 ## Contributors
 
-- Shripad pate (M23MAC007)
+- Shripad pate
 
 ## Acknowledgments
 
